@@ -1,0 +1,6 @@
+simplejson
+tk
+tweepy
+textblob
+matplotlib
+
