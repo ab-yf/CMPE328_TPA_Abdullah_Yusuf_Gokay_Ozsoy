@@ -40,12 +40,4 @@ Please note that this tool requires the installation of the necessary dependenci
 
 Please note that with the recent changes in Twitter's ownership, securing an API from Twitter has become a bit difficult. This may affect the availability and functionality of the Twitter sentiment analysis tool. We recommend checking the current status of Twitter's API access and ensuring compliance with any requirements or limitations imposed by Twitter.
 
-Feel free to modify and enhance this tool according to your specific needs.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-We hope you find this Twitter sentiment analysis tool useful and insightful. If you have any questions or suggestions, please feel free to reach out. Happy analyzing!
+I hope you find this Twitter sentiment analysis tool useful and insightful. If you have any questions or suggestions, please feel free to reach out. Happy analyzing!
