@@ -38,7 +38,7 @@ Please note that this tool requires the installation of the necessary dependenci
 
 ## Disclaimer
 
-Please note that with the recent changes in Twitter's ownership, securing an API from Twitter has become a bit difficult. This may affect the availability and functionality of the Twitter sentiment analysis tool. We recommend checking the current status of Twitter's API access and ensuring compliance with any requirements or limitations imposed by Twitter.
+Please note that with the recent changes in Twitter's ownership, securing an API from Twitter has become a bit difficult. This may affect the availability and functionality of the Twitter sentiment analysis tool. I recommend checking the current status of Twitter's API access and ensuring compliance with any requirements or limitations imposed by Twitter.
 
 ---
 
